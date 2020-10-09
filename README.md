@@ -39,3 +39,12 @@ Expected Results
         clientId: “999-4567”
     }
 }
+
+
+
+to run 
+git clone https://github.com/loteknowledG/capgemini-api.git
+cd capgemini-api
+npm install
+npm start
+post via postman to localhost:5000
