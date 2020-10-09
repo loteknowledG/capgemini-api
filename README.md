@@ -42,9 +42,9 @@ Expected Results
 
 
 
-to run 
-git clone https://github.com/loteknowledG/capgemini-api.git
-cd capgemini-api
-npm install
-npm start
-post via postman to localhost:5000
+to run  
+git clone https://github.com/loteknowledG/capgemini-api.git  
+cd capgemini-api  
+npm install  
+npm start  
+post via postman to localhost:5000  
