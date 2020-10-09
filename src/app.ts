@@ -23,7 +23,7 @@ app.post('/api/v2/parse', (request, response) => {
     data: {
       firstName: result0,
       lastName: result1[0],
-      clientId: result1[1]
+      clientId: [result1[1].slice(0, 2), '-', result1[1].slice(2)].join('')
     }
   })
 })
